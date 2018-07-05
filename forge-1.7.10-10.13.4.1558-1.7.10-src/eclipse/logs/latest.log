@@ -1,68 +1,11 @@
-[22:14:44] [main/INFO]: Setting user: Player452
-[22:14:45] [Client thread/INFO]: LWJGL Version: 2.9.1
-[22:14:53] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod, FMLFileResourcePack:myMods
-[22:14:53] [Sound Library Loader/INFO]: Sound engine started
-[22:14:56] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[22:14:56] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[22:14:56] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod, FMLFileResourcePack:myMods
-[22:14:56] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[22:14:56] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[22:14:57] [Sound Library Loader/INFO]: Sound engine started
-[22:15:01] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[22:15:01] [Server thread/INFO]: Generating keypair
-[22:15:01] [Server thread/INFO]: Preparing start region for level 0
-[22:15:03] [Server thread/INFO]: Changing view distance to 12, from 10
-[22:15:03] [Server thread/INFO]: Player452[local:E:e748ce20] logged in with entity id 404 at (-53.91350208468482, 72.0, 374.45654197374495)
-[22:15:03] [Server thread/INFO]: Player452 joined the game
-[22:15:04] [Server thread/INFO]: Saving and pausing game...
-[22:15:04] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[22:15:04] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[22:15:04] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[22:15:11] [Client thread/INFO]: [CHAT] §6You broke a block!
-[22:15:12] [Client thread/INFO]: [CHAT] §6You broke a block!
-[22:15:12] [Client thread/INFO]: [CHAT] §6You broke a block!
-[22:15:12] [Client thread/INFO]: [CHAT] §6You broke a block!
-[22:15:13] [Client thread/INFO]: [CHAT] §6You broke a block!
-[22:15:13] [Client thread/INFO]: [CHAT] §6You broke a block!
-[22:15:14] [Client thread/INFO]: [CHAT] §6You broke a block!
-[22:15:14] [Client thread/INFO]: [CHAT] §6You broke a block!
-[22:15:14] [Client thread/INFO]: [CHAT] §6You broke a block!
-[22:15:17] [Server thread/INFO]: <Player452> aez
-[22:15:17] [Client thread/INFO]: [CHAT] <Player452> aez
-[22:15:19] [Client thread/INFO]: [CHAT] §6You broke a block!
-[22:15:19] [Client thread/INFO]: [CHAT] §6You broke a block!
-[22:15:19] [Client thread/INFO]: [CHAT] §6You broke a block!
-[22:15:20] [Client thread/INFO]: [CHAT] §6You broke a block!
-[22:15:20] [Client thread/INFO]: [CHAT] §6You broke a block!
-[22:15:20] [Client thread/INFO]: [CHAT] §6You broke a block!
-[22:15:20] [Client thread/INFO]: [CHAT] §6You broke a block!
-[22:15:20] [Client thread/INFO]: [CHAT] §6You broke a block!
-[22:15:21] [Client thread/INFO]: [CHAT] §6You broke a block!
-[22:15:21] [Client thread/INFO]: [CHAT] §6You broke a block!
-[22:15:21] [Client thread/INFO]: [CHAT] §6You broke a block!
-[22:15:21] [Client thread/INFO]: [CHAT] §6You broke a block!
-[22:15:21] [Client thread/INFO]: [CHAT] §6You broke a block!
-[22:15:22] [Client thread/INFO]: [CHAT] §6You broke a block!
-[22:15:22] [Client thread/INFO]: [CHAT] §6You broke a block!
-[22:15:44] [Client thread/INFO]: Warning: Clientside chunk ticking took 138 ms
-[22:15:51] [Client thread/INFO]: [CHAT] §6You broke a block!
-[22:15:55] [Client thread/INFO]: [CHAT] §6You broke a block!
-[22:16:00] [Client thread/INFO]: [CHAT] §6You broke a block!
-[22:16:05] [Client thread/INFO]: [CHAT] §6You broke a block!
-[22:16:05] [Client thread/INFO]: [CHAT] §6You broke a block!
-[22:16:05] [Client thread/INFO]: [CHAT] §6You broke a block!
-[22:16:05] [Client thread/INFO]: [CHAT] §6You broke a block!
-[22:16:06] [Client thread/INFO]: [CHAT] §6You broke a block!
-[22:16:11] [Client thread/INFO]: [CHAT] §6You broke a block!
-[22:16:16] [Client thread/INFO]: [CHAT] §6You broke a block!
-[22:16:28] [Server thread/INFO]: Saving and pausing game...
-[22:16:28] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[22:16:28] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[22:16:28] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[22:16:28] [Server thread/INFO]: Stopping server
-[22:16:28] [Server thread/INFO]: Saving players
-[22:16:28] [Server thread/INFO]: Saving worlds
-[22:16:28] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[22:16:28] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[22:16:28] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[22:16:31] [Client thread/INFO]: Stopping!
+[17:00:21] [main/INFO]: Setting user: Player614
+[17:00:22] [Client thread/INFO]: LWJGL Version: 2.9.1
+[17:00:32] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod, FMLFileResourcePack:myMods
+[17:00:33] [Sound Library Loader/INFO]: Sound engine started
+[17:00:34] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[17:00:34] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[17:00:34] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod, FMLFileResourcePack:myMods
+[17:00:34] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:00:34] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:00:35] [Sound Library Loader/INFO]: Sound engine started
+[17:00:49] [Client thread/INFO]: Stopping!
